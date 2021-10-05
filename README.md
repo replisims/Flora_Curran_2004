@@ -4,16 +4,16 @@ This repo contains the data generation and data analysis code, simulated data, a
 
 ## Contents
 The repo is organized as follows:
-- The folder data contains the data from the main simulation study and the additional simulations we ran
-- The folder report contains the replication report in pdf and rmd formats
-- The folder code contains the data generation and data analysis code for the simulations, as well as R functions used
+- The folder [data](https://github.com/replisims/Flora_Curran_2004/tree/main/data) contains the data from the main simulation study and the additional simulations we ran
+- The folder [report]() contains the replication report in pdf and rmd formats
+- The folder [code](https://github.com/replisims/Flora_Curran_2004/tree/main/code) contains the data generation and data analysis code for the simulations, as well as R functions used
 
 ## Contributions
 Authors made the following contributions according to the [CRediT framework](https://casrai.org/credit/).
 
 Primary Replicator: Y. Andre Wang
 - Data Curation
-- Formal Analysis(lead)
+- Formal Analysis (lead)
 - Investigation
 - Software
 - Visualization (lead)
