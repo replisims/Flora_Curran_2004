@@ -1,6 +1,6 @@
 # Flora and Curran (2004)
 
-This repo contains the data generation and data analysis code, simulated data, and summary report for the replication of [Flora and Curran (2004)](https://psycnet.apa.org/record/2004-21445-005) as part of the [Simulation Replication Challenge (RepliSims) project](https://replisims.org/). The replication is led by [Y. Andre Wang](yilinandrewang.com) and co-piloted by Udi Alter.
+This repo contains the data generation and data analysis code, simulated data, and summary report for the replication of [Flora and Curran (2004)](https://psycnet.apa.org/record/2004-21445-005) as part of the [Simulation Replication Challenge (RepliSims) project](https://replisims.org/). The replication is led by [Y. Andre Wang](yilinandrewang.com) and co-piloted by [Udi Alter](www.udialter.com).
 
 ## Replication Report
 The summary report for the replication is available [here]().
