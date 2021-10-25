@@ -8,7 +8,7 @@ The summary report for the replication is available [here]().
 ## Contents
 The repo is organized as follows:
 - The folder [data](https://github.com/replisims/Flora_Curran_2004/tree/main/data) contains the data from the main simulation study and the additional simulations we ran
-- The folder [report]() contains the replication report in pdf and rmd formats
+- The folder [Report]() contains the replication report in pdf and rmd formats
 - The folder [code](https://github.com/replisims/Flora_Curran_2004/tree/main/code) contains the data generation and data analysis code for the simulations, as well as R functions used
 
 ## Contributions
